@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+<h3>Normal Url   - Domain.com/Controllers/Action?ID=1   .. etc</h3>
+<br />
+<h3>My Url   -     Domain.com/ParameterName   from db or cache</h3>
+<br />
+<ul class="nav">
+    <li><a href="/Home/Index">Home - http://localhost:51801/Home/Index </a></li>
+    <li><a href="@Url.Action("EnginnerDetail","Engineers" , new { ID = 13 })" target="_blank">Normal Url - http://localhost:51801/Engineers/EnginnerDetails?EngineerId=value </a></li>
+    <li><a href="@Url.RouteUrl("EngineerSeo1", new RouteValueDictionary { { "SeName", "Eng-Mohamad-Alsaid" } })" target="_blank">Enginner Detail Url - http://localhost:51801/Eng-Mohamad-Alsaid </a></li>
+    <li><a href="@Url.RouteUrl("EngineerSeo2", new RouteValueDictionary { { "SeCountry", "Syria" } })" target="_blank">Country - http://localhost:51801/Syria </a></li>
+    <li><a href="@Url.RouteUrl("EngineerSeo3", new RouteValueDictionary { { "SeMobile", "0090538972117"} })" target="_blank">Mobile - http://localhost:51801/0090538972117 </a></li>
+</ul>

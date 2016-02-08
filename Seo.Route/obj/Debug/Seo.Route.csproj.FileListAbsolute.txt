@@ -1,0 +1,181 @@
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Seo.Route.dll.config
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Seo.Route.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Seo.Route.pdb
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Antlr3.Runtime.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.SqlServer.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Newtonsoft.Json.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Owin.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Helpers.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Mvc.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Optimization.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Razor.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\WebGrease.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Helpers.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Mvc.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Optimization.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.Razor.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Antlr3.Runtime.pdb
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Newtonsoft.Json.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.SqlServer.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\obj\Debug\Seo.Route.csprojResolveAssemblyReference.cache
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\obj\Debug\Seo.Route.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\obj\Debug\Seo.Route.pdb
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Route.Seo.dll
+C:\Users\Yazilim01\Desktop\Seo.Route\Seo.Route\bin\Route.Seo.pdb
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Seo.Route.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Seo.Route.pdb
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Antlr3.Runtime.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\EntityFramework.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\EntityFramework.SqlServer.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Core.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Cookies.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Facebook.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Google.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.OAuth.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Twitter.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Web.Infrastructure.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\mscorlib.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Newtonsoft.Json.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Owin.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Route.Seo.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Net.Http.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Net.Http.WebRequest.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Helpers.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Mvc.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Optimization.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Razor.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.WebPages.Deployment.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.WebPages.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.WebPages.Razor.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\WebGrease.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Route.Seo.pdb
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Helpers.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Mvc.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Razor.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.WebPages.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.WebPages.Deployment.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.WebPages.Razor.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Net.Http.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Net.Http.WebRequest.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\System.Web.Optimization.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Antlr3.Runtime.pdb
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Newtonsoft.Json.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\EntityFramework.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\EntityFramework.SqlServer.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Core.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Facebook.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Cookies.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.OAuth.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Google.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Twitter.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\tr\mscorlib.resources.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\normidna.nlp
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\normnfc.nlp
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\normnfd.nlp
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\normnfkc.nlp
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\bin\normnfkd.nlp
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\obj\Debug\Seo.Route.csprojResolveAssemblyReference.cache
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\obj\Debug\Seo.Route.dll
+D:\New Flash\MVC\Web\MVC-Routing\Seo.Route\Seo.Route\obj\Debug\Seo.Route.pdb
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Seo.Route.dll.config
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Seo.Route.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Seo.Route.pdb
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Antlr3.Runtime.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.SqlServer.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Newtonsoft.Json.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Owin.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Route.Seo.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Helpers.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Mvc.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Optimization.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Razor.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Razor.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\WebGrease.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Route.Seo.pdb
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Helpers.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Mvc.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Razor.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.WebPages.Razor.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\System.Web.Optimization.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Antlr3.Runtime.pdb
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Newtonsoft.Json.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\EntityFramework.SqlServer.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\obj\Debug\Seo.Route.csprojResolveAssemblyReference.cache
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\obj\Debug\Seo.Route.dll
+C:\Users\mokhe\Desktop\Seo.Route\Seo.Route\obj\Debug\Seo.Route.pdb
